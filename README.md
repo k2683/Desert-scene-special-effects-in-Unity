@@ -1,7 +1,1 @@
-For the principles of this project, please refer to ["Simulation of Desert Scenes Based on the URP Pipeline.pdf."](./Simulation of Desert Scenes Based on the URP Pipeline.pdf)
-
-
-
-
-
-
+For the principles of this project, please refer to the document: ["Simulation of Desert Scenes Based on the URP Pipeline.pdf"](./Simulation%20of%20Desert%20Scenes%20Based%20on%20the%20URP%20Pipeline.pdf)
